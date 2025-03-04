@@ -27,8 +27,6 @@ No special setup is required. Simply open the HTML file in any modern browser.
 ## Author
 - **Vidish Kumar**
 - **Email:** vidishkumar890@gmail.com
-- **Phone:** 9654403155
-
 ## License
 This project is licensed under the MIT License.
 
